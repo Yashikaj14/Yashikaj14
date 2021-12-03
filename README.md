@@ -43,6 +43,6 @@
 <p align="center">
 	<a href="mailto:jain.yashikaswm@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 	<a href="https://github.com/Yashikaj14"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in/yashika-jain2023/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	
+	<a href="https://www.linkedin.com/in/yashika-jain2023/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>	
+	<a href="https://twitter.com/YashikaJ14"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
